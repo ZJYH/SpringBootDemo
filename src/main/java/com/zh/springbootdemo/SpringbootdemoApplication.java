@@ -1,11 +1,11 @@
 package com.zh.springbootdemo;
 
 import org.springframework.boot.SpringApplication;
-import org.springframework.boot.autoconfigure.EnableAutoConfiguration;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
-import org.springframework.boot.context.properties.EnableConfigurationProperties;
+import org.springframework.context.annotation.ImportResource;
 
 @SpringBootApplication
+//可以自动导入spring的配置文件
 public class SpringbootdemoApplication {
 
     public static void main(String[] args) {

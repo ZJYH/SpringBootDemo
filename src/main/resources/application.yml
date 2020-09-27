@@ -11,6 +11,6 @@ person:
     - 陈平安
     - 瘸腿老道
   dog:
-    name: 狗胜
+    name: ${person.last-name}_狗胜
     age: 2
   last-name: nice
