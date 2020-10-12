@@ -9,9 +9,9 @@ public class Dog {
     private  String name;
     private  int age ;
 
-    public void getReNice(){
-        int q= 12;
-        String w ="dasds";
+    public void getReWEQWce(){
+        int q= 1232;
+        String wWW ="dasds";
         ArrayList<Object> objects = new ArrayList<>();
     }
 }
