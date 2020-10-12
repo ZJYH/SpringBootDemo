@@ -9,8 +9,9 @@ public class Dog {
     private  String name;
     private  int age ;
 
-    public void getReName(){
+    public void getReNice(){
         int q= 12;
+        String w ="dasds";
         ArrayList<Object> objects = new ArrayList<>();
     }
 }
