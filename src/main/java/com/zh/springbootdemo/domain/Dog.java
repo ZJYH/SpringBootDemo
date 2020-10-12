@@ -3,6 +3,8 @@ package com.zh.springbootdemo.domain;
 import lombok.Data;
 
 import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Map;
 
 @Data
 public class Dog {
@@ -10,7 +12,7 @@ public class Dog {
     private  int code ;
     private  int age ;
 
-    public void qwe(){
+    public void getweaaseQ(){
         int q= 12;
         User user = new User();
         String QW ="dasEEWds";
