@@ -11,6 +11,7 @@ public class Dog {
 
     public void getQQ(){
         int q= 12;
+        User user = new User();
         String QW ="dasEEWds";
         ArrayList<Object> objects = new ArrayList<>();
     }
