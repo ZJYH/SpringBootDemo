@@ -7,9 +7,10 @@ import java.util.ArrayList;
 @Data
 public class Dog {
     private  String name;
+    private  int code ;
     private  int age ;
 
-    public void getweQ(){
+    public void qwe(){
         int q= 12;
         String QW ="dasEEWds";
         Map m  = new HashMap();
